@@ -1,0 +1,5 @@
+command line to make AlBhed.jar:
+jar cmfv0 manifest.txt AlBhed.jar AlBhed.class CloseableFrame.class index.html
+
+Webpage for the JAR Tutorial:
+http://java.sun.com/docs/books/tutorial/jar/
